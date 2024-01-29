@@ -61,11 +61,11 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	 * *Title*, [Speaker](.), [Company](.)
  	* [[Slides (PDF)]](.)
    
-9. Mercredi 8 Mai 2023
+9. Mercredi 8 Mai 2024
 
   	* Examen
 
-10. Mercredi 15 Mai 2023
+10. Mercredi 15 Mai 2024
 
   	* Examen
 
