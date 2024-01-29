@@ -1,5 +1,4 @@
-# Séminaires d'informatique 2024, UMONS 
-# Séminaires d'informatique en veille technologique	
+# Séminaires d'informatique en veille technologique, UMONS 2023-2024	
 ## (Industrial Seminars in Computer Science)
 
 Ceci est la page web des [Séminaires d'informatique en veille technologique](https://webcontent.umons.ac.be/web/fr/pde/2023-2024/aa/S-INFO-017.htm), organisé par [Prof. Souhaib Ben Taieb](http://www.souhaib-bentaieb.com)
