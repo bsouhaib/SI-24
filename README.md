@@ -10,7 +10,7 @@ Ceci est la page web des [Séminaires d'informatique en veille technologique](ht
 
 Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du bâtiment De Vinci) ([Google Maps](https://goo.gl/maps/y83a97kLffiojN4o7), [Plan du Campus](https://web.umons.ac.be/fr/plan-des-campus/#mons)).
 
-# Liste de séminaires
+# Liste des séminaires
 
 
 1. Mercredi 21 Février 2024
