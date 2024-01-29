@@ -19,7 +19,6 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	* [[Slides (PDF)]](.)
 
 
-
 2. Mercredi 28 Février 2024
 
 	* *Title*, [Speaker](.), [Company](.) 
@@ -41,32 +40,32 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 5. Mercredi 20 Mars 2024
 	
- * *Title*, [Speaker](.), [Company](.)
- * [[Slides (PDF)]](.)
+ 	* *Title*, [Speaker](.), [Company](.)
+ 	* [[Slides (PDF)]](.)
   
 6. Mercredi 27 Mars 2024
 	
- * *Title*, [Speaker](.), [Company](.)
- * [[Slides (PDF)]](.)
+ 	* *Title*, [Speaker](.), [Company](.)
+ 	* [[Slides (PDF)]](.)
 
 
 **Vacances de printemps**
 
 7. Mercredi 17 Avril 2024
 	
- * *Title*, [Speaker](.), [Company](.)
- * [[Slides (PDF)]](.)
+ 	* *Title*, [Speaker](.), [Company](.)
+ 	* [[Slides (PDF)]](.)
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
- * *Title*, [Speaker](.), [Company](.)
- * [[Slides (PDF)]](.)
+	 * *Title*, [Speaker](.), [Company](.)
+ 	* [[Slides (PDF)]](.)
    
 9. Mercredi 8 Mai 2023
 
-  * Examen
+  	* Examen
 
 10. Mercredi 15 Mai 2023
 
-  * Examen
+  	* Examen
 
