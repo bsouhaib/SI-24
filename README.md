@@ -3,7 +3,7 @@
 
 Ceci est la page web des [Séminaires d'informatique en veille technologique](https://webcontent.umons.ac.be/web/fr/pde/2023-2024/aa/S-INFO-017.htm), organisé par [Prof. Souhaib Ben Taieb](http://www.souhaib-bentaieb.com)
 
-- [Moodle (for the discussion forum, assignments, etc)](https://moodle.umons.ac.be/mod/forum/view.php?id=271619)   
+- [Moodle (Forum, etc)](https://moodle.umons.ac.be/mod/forum/view.php?id=271619)   
 
 
 # Local
