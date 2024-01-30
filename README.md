@@ -21,7 +21,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 2. Mercredi 28 Février 2024
 
-	* *Title*, [Speaker](.), [Company](.) 
+	* *Optimisation et jeux vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), [Unity Technologies](https://unity.com/) 
 	* [[Slides (PDF)]](.)
 	
 
