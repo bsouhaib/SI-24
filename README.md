@@ -15,7 +15,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 1. Mercredi 21 Février 2024
 
-	* *Title*, [Laurent Bossart](https://www.linkedin.com/in/laurent-bossart-3a582317a/?originalSubdomain=be), [Approach Cyber](https://www.approach-cyber.com/en.html) 
+	* *Title TBA*, [Laurent Bossart](https://www.linkedin.com/in/laurent-bossart-3a582317a/?originalSubdomain=be), [Approach Cyber](https://www.approach-cyber.com/en.html) 
 	* [[Slides (PDF)]](.)
 
 
@@ -27,25 +27,25 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 3. Mercredi 6 Mars 2024
 
-	* *Title*, [Speaker](.), [Company](.) 
+	* *Title TBA*, [Speaker](.), [Company](.) 
 	* [[Slides (PDF)]](.)
 
 
 
 4. Mercredi 13 Mars 2024
 
-	* *Title*, [Speaker](.), [Company](.) 
+	* *Title TBA*, [Speaker](.), [Company](.) 
 	* [[Slides (PDF)]](.)
 
 
 5. Mercredi 20 Mars 2024
 	
- 	* *Title*, [Speaker](.), [Company](.)
+ 	* *Title TBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
  	* [[Slides (PDF)]](.)
   
 6. Mercredi 27 Mars 2024
 	
- 	* *Title*, [Speaker](.), [Company](.)
+ 	* *Title TBA*, [Speaker](.), [Company](.)
  	* [[Slides (PDF)]](.)
 
 
