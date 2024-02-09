@@ -19,37 +19,37 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	* **Biographie**: Titulaire d'un Master en sciences informatiques de l'Université de Mons, Laurent Bossart est un professionnel de la cybersécurité spécialisé dans l'Ethical Hacking. Avec une année d'expérience en tant qu'Ethical Hacker chez Approach Cyber, il se concentre principalement sur le pentest web. Laurent est certifié BSCP (Burp Suite Certified Practitioner) et continue son apprentissage vers le Red Teaming et les pentests d'infrastructure.
 	* **Abstract**: Ce séminaire a pour but d'explorer les divers emplois au sein de la cybersécurité, avec un accent particulier sur l'Ethical Hacking. Découvrez les nuances des différents types de pentests, missions qui visent à renforcer la sécurité des systèmes informatiques. Au cours de ce séminaire, nous détaillerons les étapes cruciales d'une mission d'Ethical Hacking, plongerons dans l'arsenal d'outils utilisés par les professionnels de la cybersécurité et vous assisterez à des démonstrations en direct. Il vous sera aussi présenté des études de cas concrets, illustrant les défis réels auxquels sont confrontés les Ethical Hackers. Si vous êtes intéressés par la cybersécurité, ce séminaire vous permettra d'en découvrir les coulisses, de vous familiariser avec les techniques de pentest et d'appréhender les enjeux cruciaux de la cybersécurité moderne.
 
-	* [[Slides (PDF)]](.)
+	* [[Slides (PDF, not available yet)]](.)
 
 
 2. Mercredi 28 Février 2024
 
 	* *Optimisation et jeux vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), [Unity Technologies](https://unity.com/) 
-	* [[Slides (PDF)]](.)
+	* [[Slides (PDF, not available yet)]](.)
 	
 
 3. Mercredi 6 Mars 2024
 
 	* *Title TBA*, [Speaker](.), [Company](.) 
-	* [[Slides (PDF)]](.)
+	* [[Slides (PDF, not available yet)]](.)
 
 
 
 4. Mercredi 13 Mars 2024
 
 	* *Title TBA*, [Speaker](.), [Company](.) 
-	* [[Slides (PDF)]](.)
+	* [[Slides (PDF, not available yet)]](.)
 
 
 5. Mercredi 20 Mars 2024
 	
  	* *Title TBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
- 	* [[Slides (PDF)]](.)
+ 	* [[Slides (PDF, not available yet)]](.)
   
 6. Mercredi 27 Mars 2024
 	
  	* *Title TBA*, [Speaker](.), [Company](.)
- 	* [[Slides (PDF)]](.)
+ 	* [[Slides (PDF, not available yet)]](.)
 
 
 **Vacances de printemps**
@@ -57,12 +57,12 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 7. Mercredi 17 Avril 2024
 	
  	* *Title*, [Speaker](.), [Company](.)
- 	* [[Slides (PDF)]](.)
+ 	* [[Slides (PDF, not available yet)]](.)
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
 	 * *Title*, [Speaker](.), [Company](.)
- 	* [[Slides (PDF)]](.)
+ 	* [[Slides (PDF, not available yet)]](.)
    
 9. Mercredi 8 Mai 2024
 
