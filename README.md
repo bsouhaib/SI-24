@@ -15,7 +15,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 1. Mercredi 21 Février 2024
 
-	* *Title TBA*, [Laurent Bossart](https://www.linkedin.com/in/laurent-bossart-3a582317a/?originalSubdomain=be), [Approach Cyber](https://www.approach-cyber.com/en.html) 
+	* *Cybersécurité : Ethical Hacking et Pentesting*, [Laurent Bossart](https://www.linkedin.com/in/laurent-bossart-3a582317a/?originalSubdomain=be), [Approach Cyber](https://www.approach-cyber.com/en.html) 
 	* [[Slides (PDF)]](.)
 
 
