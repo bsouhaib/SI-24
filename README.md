@@ -56,7 +56,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. Mercredi 17 Avril 2024
 	
- 	* *Title*, [Speaker](.), [Company](.)
+ 	* *Title*, [Valérie Zapico](https://be.linkedin.com/in/valerie-zapico), [VALKUREN](https://www.valkuren.com/)
  	* [[Slides (PDF, not available yet)]](.)
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
