@@ -37,7 +37,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 4. Mercredi 13 Mars 2024
 
-	* *Title TBA*, [Speaker](.), [Company](.) 
+	* *Use case of Industrial Wireless IoT in manufacturing industry based on LoRaWAN and AWS IoT*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Nicolas Decruyenaere](https://www.linkedin.com/in/nicolas-decruyenaere-2605909a/?originalSubdomain=be), [Necko Technologies](https://necko.tech/homepage) 
 	* [[Slides (PDF, not available yet)]](.)
 
 
