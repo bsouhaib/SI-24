@@ -24,7 +24,9 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 2. Mercredi 28 Février 2024
 
-	* *Optimisation et jeux vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), [Unity Technologies](https://unity.com/) 
+	* *Optimisation et jeux vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), [Unity Technologies](https://unity.com/)
+	* **Biographie**: Ancien étudiant de l’UMH (ancêtre de l’UMONS), titulaire d’une licence en informatique (ancêtre du master), Fabrice (ancêtre lui-même) a intégré l’industrie du jeu vidéo il y plus de 20 ans. Et depuis 6 ans, il est développeur chez Unity Technologies, où il travaille au cœur d’un moteur utilisé par plus de la moitié des jeux vidéo actuellement commercialisés (toutes plateformes confondues).
+	* **Abstract**: L’industrie du jeu vidéo est un vivier d’idées lorsqu’il s’agit de repousser les limites de ce que peut faire la machine. Optimiser, c’est faire plus avec moins. Et ça a toujours été l’un des arguments majeurs utilisés par les jeux pour se démarquer les uns des autres. Malheureusement, plus les ordinateurs se complexifient, plus il est fréquent de faire les erreurs d’apparence anodine qui sont la source des pires gaspillages. La présentation parlera des grands principes à surveiller pour éviter ça.
 	* [[Slides (PDF, not available yet)]](.)
 	
 
