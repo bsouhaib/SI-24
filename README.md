@@ -50,7 +50,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
   
 6. Mercredi 27 Mars 2024
 	
- 	* *Title TBA*, [Speaker](.), [Company](.)
+ 	* *Le métier passionnant d’expert judiciaire en informatique*, [Lug Golvers](https://www.cepani.be/golvers-luc/luc-golvers/?lang=nl)
  	* [[Slides (PDF, not available yet)]](.)
 
 
