@@ -56,7 +56,12 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 6. Mercredi 27 Mars 2024
 	
  	* *Le métier passionnant d’expert judiciaire en informatique*, [Lug Golvers](https://www.cepani.be/golvers-luc/luc-golvers/?lang=nl)
- 	* [[Slides (PDF, not available yet)]](.)
+ 	* **Biographie**: Luc GOLVERS est ingénieur civil physicien (ULB) et titulaire d’un Master en Business Administration (Cranfield School of Management). Après plusieurs années consacrées au développement de systèmes informatiques de gestion, il a réalisé ses premières expertises judiciaires en informatique à la fin des années 1970. Depuis lors, il a réalisé plus de 1.400 missions d’expertise, soit à la requête de Tribunaux et Cours d’Appel, de Juges d’instruction, soit comme conseiller technique de parties impliquées dans une procédure.
+
+	
+	* **Abstract**: Les différents types de missions qu’un expert judiciaire est susceptible de réaliser seront explicités, de même que le rôle dévolu à un expert, ses devoirs et obligations. Il en va de litiges concernant la fourniture de systèmes informatiques, qui ne répondent pas aux besoins du client ou aux spécifications contractuelles, de saisies-descriptions relatives à la contrefaçon de logiciels ou de sites web, de vol de données et de secrets d’affaires, de recherches de preuves inforensiques dans le cadre de faits supposés délictueux. Le rôle de l’expert dans la recherche de solutions amiables aux litiges sera mis en évidence. L’accent sera également mis sur les obligations qui pèsent sur les développeurs de logiciels et de sites web.
+
+	* [[Slides (PDF) ]](slides/1_slides_bossart.pdf)
 
 
 **Vacances de printemps**
