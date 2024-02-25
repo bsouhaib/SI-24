@@ -32,7 +32,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 3. Mercredi 6 Mars 2024
 
-	* *Title TBA*, [Speaker](.), [Company](.) 
+	* *Title TBA*, [Vandy Berten](https://www.linkedin.com/in/vandy-berten-402a894b/?originalSubdomain=be), [Smals](https://www.smals.be/nl) 
 	* [[Slides (PDF, not available yet)]](.)
 
 
