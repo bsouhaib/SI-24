@@ -39,7 +39,12 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 4. Mercredi 13 Mars 2024
 
-	* *Use case of Industrial Wireless IoT in manufacturing industry based on LoRaWAN and AWS IoT*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Nicolas Decruyenaere](https://www.linkedin.com/in/nicolas-decruyenaere-2605909a/?originalSubdomain=be), [Necko Technologies](https://necko.tech/homepage) 
+	* *Use case of Industrial Wireless IoT in manufacturing industry based on LoRaWAN and AWS IoT*, [Maximilien Charlier](https://www.linkedin.com/in/maximilien-charlier/?originalSubdomain=be), [Nicolas Decruyenaere](https://www.linkedin.com/in/nicolas-decruyenaere-2605909a/?originalSubdomain=be), [Necko Technologies](https://necko.tech/homepage)
+	* **Biographies**:
+
+	Maximilien Charlier a obtenu son doctorat en sciences au sein du département Réseaux et Télécommunications de la faculté des Sciences de l'UMons. Depuis 2022, il exerce en tant que développeur cloud chez Necko. Dans son rôle actuel, Maximilien se consacre principalement à la conception d'architectures cloud, en se basant principalement sur des services managés tels que AWS Lambda, AWS DynamoDB et AWS Step Function. Il met en œuvre ces architectures pour répondre aux besoins spécifiques des clients. En outre, il met en lumière son expertise en réseau à travers des projets qui repose sur l'utilisation du protocole de communication LoRaWAN. Son parcours professionnel reflète sa passion pour l'informatique, en particulier dans le domaine du cloud computing et du réseau.
+
+ 
 	* [[Slides (PDF, not available yet)]](.)
 
 
