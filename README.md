@@ -44,16 +44,18 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 	Maximilien Charlier a obtenu son doctorat en sciences au sein du département Réseaux et Télécommunications de la faculté des Sciences de l'UMons. Depuis 2022, il exerce en tant que développeur cloud chez Necko. Dans son rôle actuel, Maximilien se consacre principalement à la conception d'architectures cloud, en se basant principalement sur des services managés tels que AWS Lambda, AWS DynamoDB et AWS Step Function. Il met en œuvre ces architectures pour répondre aux besoins spécifiques des clients. En outre, il met en lumière son expertise en réseau à travers des projets qui repose sur l'utilisation du protocole de communication LoRaWAN. Son parcours professionnel reflète sa passion pour l'informatique, en particulier dans le domaine du cloud computing et du réseau.
 
+Hello ! Moi c'est Nicolas Decruyenaere, montois de fait et de coeur, sorti en 2016 de la Faculté des Sciences avec un master en informatique. Depuis, j'ai travaillé dans plusieurs domaines, industriel, data modeling, business intelligence, avant de revenir vers le développement en 2019 en rejoignant Necko. De là, j'ai appris les ficelles du cloud jusqu'à devenir solutions architect et devops engineer, à travers plusieurs missions et certifications. Cette expérience me permet d'aider nos clients à développer leurs applications sur des architectures cloud robustes, évolutives et facilement maintenables. Je donne également des formations sur AWS. Ah, et je suis papa, photographe, musicien, gamer, cinéphile, passionné de sports extrêmes, et curieux de tout. Dormir ? Plus tard...
+
  
 	* [[Slides (PDF, not available yet)]](.)
 
 
-5. Mercredi 20 Mars 2024
+6. Mercredi 20 Mars 2024
 	
  	* *Title TBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
  	* [[Slides (PDF, not available yet)]](.)
   
-6. Mercredi 27 Mars 2024
+7. Mercredi 27 Mars 2024
 	
  	* *Le métier passionnant d’expert judiciaire en informatique*, [Lug Golvers](https://www.cepani.be/golvers-luc/luc-golvers/?lang=nl)
  	* **Biographie**: Luc GOLVERS est ingénieur civil physicien (ULB) et titulaire d’un Master en Business Administration (Cranfield School of Management). Après plusieurs années consacrées au développement de systèmes informatiques de gestion, il a réalisé ses premières expertises judiciaires en informatique à la fin des années 1970. Depuis lors, il a réalisé plus de 1.400 missions d’expertise, soit à la requête de Tribunaux et Cours d’Appel, de Juges d’instruction, soit comme conseiller technique de parties impliquées dans une procédure.
