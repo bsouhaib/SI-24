@@ -32,7 +32,15 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 3. Mercredi 6 Mars 2024
 
-	* *Title TBA*, [Vandy Berten](https://www.linkedin.com/in/vandy-berten-402a894b/?originalSubdomain=be), [Smals](https://www.smals.be/nl) 
+	* * GIS Analytics: quel potentiel pour les données géographiques ?*, [Vandy Berten](https://www.linkedin.com/in/vandy-berten-402a894b/?originalSubdomain=be), [Smals](https://www.smals.be/nl)
+	* **Biographie**: Consultant Recherche chez Smals depuis mai 2013. Vandy Berten était auparavant Professeur Assistant à l'ULB, où il enseignait les langages de programmation. Il a obtenu une thèse de doctorat dans la même institution en 2007. Il a été d'octobre 2015 à septembre 2018 chargé du cours de "Visualisation des données et de l'information", à l'ULB. Depuis quelques années, s'est spécialisé dans les techniques de Data Science, incluant le "(social) network analytics", le "data quality", le "machine learning", en particulier dans le domaine de la détection de la fraude.
+	* **Abstract**: Peut-on, depuis tout point en Belgique, atteindre une maternité ou un service d’urgence dans un délai d’une demi-heure, même en heure de pointe ? Quel impact aura la fermeture d’un service en termes de service à la population ? Peut-on aider à encoder correctement une adresse ? Un indicateur socio-économique a-t-il une composante géographique ? Toutes les institutions possèdent, parfois sans réellement le savoir, des informations géographiques : adresses de citoyens, institutions, nom de villes/communes ou code postal… Par ailleurs, une mine d’information est disponible en ligne, souvent en open source, permettant d’afficher un fond de carte, d’obtenir les contours d’entités administratives, de calculer des distances, d’obtenir la localisation de commerces ou administrations… Ces informations géographiques (internes ou externes) ne sont pas toujours exploitées au maximum de leurs possibilités. Elles ont pourtant un énorme potentiel dans de nombreux secteurs : lutte contre la fraude, optimisation des tournées ou de l’affectation d’inspecteurs, placement d’entités comme des hôpitaux ou CPAS, analyse d’impact quant à la fermeture ou au déplacement de services, etc. Le but de ce séminaire est d’expliquer les principaux concepts de l’analytique spatiale (ou GIS analytics) et leurs possibilités.  À cet effet, les questions suivantes seront abordées et illustrées avec des données réelles du secteur public :
+
+- Comment traduire une adresse en coordonnées géogaphiques ?
+- Comment stocker et interroger des données géographiques ?
+- Comment mesurer la dépendance géographique d’un indicateur socio-économique ?
+- Quelles sont les possibilités de l’analytique géographique ?
+  
 	* [[Slides (PDF, not available yet)]](.)
 
 
