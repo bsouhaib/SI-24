@@ -63,7 +63,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
  	* *Title TBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
  	* [[Slides (PDF, not available yet)]](.)
   
-7. Mercredi 27 Mars 2024. 🔴**En ligne (sur Teams) **🔴 
+7. Mercredi 27 Mars 2024. 🔴**En ligne (sur Teams)**🔴 
 	
  	* *Le métier passionnant d’expert judiciaire en informatique*, [Lug Golvers](https://www.cepani.be/golvers-luc/luc-golvers/?lang=nl)
  	* **Biographie**: Luc GOLVERS est ingénieur civil physicien (ULB) et titulaire d’un Master en Business Administration (Cranfield School of Management). Après plusieurs années consacrées au développement de systèmes informatiques de gestion, il a réalisé ses premières expertises judiciaires en informatique à la fin des années 1970. Depuis lors, il a réalisé plus de 1.400 missions d’expertise, soit à la requête de Tribunaux et Cours d’Appel, de Juges d’instruction, soit comme conseiller technique de parties impliquées dans une procédure.
