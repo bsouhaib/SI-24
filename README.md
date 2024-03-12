@@ -83,8 +83,9 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
-	 * *Title*, [Speaker](.), [Company](.)
- 	* [[Slides (PDF, not available yet)]](.)
+	* 🔴 **18h00 - 19h00** 🔴. *Title*, [Speaker](.), [Company](.)
+		* [[Slides (PDF, not available yet)]](.)
+ 	* 🔴 **19h15 - 20h45** 🔴. Agoria Company Tour
    
 9. Mercredi 8 Mai 2024
 
