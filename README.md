@@ -60,7 +60,12 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 6. Mercredi 20 Mars 2024
 	
- 	* *Title TBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
+ 	* *Partage de six années d'expériences dans la transformation digitale chez IBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
+  	* **Abstract**:  La digitalisation progresse rapidement dans le secteur industriel. Chaque jour, de nouvelles technologies émergent des laboratoires. Si certaines suscitent un enthousiasme passager, d'autres parviennent à s'imposer. Au-delà des investissements requis, la gestion du changement représente probablement le principal obstacle à l'adoption de ces outils. Ce séminaire vise à partager notre expérience concernant le choix, le développement et le déploiement de technologies digitales au service de la mission de notre entreprise.
+
+  	* **Biographies**: Gery Gevers, ingénieur Electricien de l'UCL, J'ai le plaisir de travailler au sein d'IBA depuis plus de 25 ans. J'y ai exercé diverses fonctions de chef de projet, à responsable des opérations, responsable de la R&D et depuis bientôt 6 ans responsable de la transformation digitale. 
+
+ 
   
 7. Mercredi 27 Mars 2024. 🔴En ligne (sur Teams)🔴 
 	
