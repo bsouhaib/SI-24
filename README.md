@@ -23,7 +23,6 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	* **Biographie**: Titulaire d'un Master en sciences informatiques de l'Université de Mons, Laurent Bossart est un professionnel de la cybersécurité spécialisé dans l'Ethical Hacking. Avec une année d'expérience en tant qu'Ethical Hacker chez Approach Cyber, il se concentre principalement sur le pentest web. Laurent est certifié BSCP (Burp Suite Certified Practitioner) et continue son apprentissage vers le Red Teaming et les pentests d'infrastructure.
 	* **Abstract**: Ce séminaire a pour but d'explorer les divers emplois au sein de la cybersécurité, avec un accent particulier sur l'Ethical Hacking. Découvrez les nuances des différents types de pentests, missions qui visent à renforcer la sécurité des systèmes informatiques. Au cours de ce séminaire, nous détaillerons les étapes cruciales d'une mission d'Ethical Hacking, plongerons dans l'arsenal d'outils utilisés par les professionnels de la cybersécurité et vous assisterez à des démonstrations en direct. Il vous sera aussi présenté des études de cas concrets, illustrant les défis réels auxquels sont confrontés les Ethical Hackers. Si vous êtes intéressés par la cybersécurité, ce séminaire vous permettra d'en découvrir les coulisses, de vous familiariser avec les techniques de pentest et d'appréhender les enjeux cruciaux de la cybersécurité moderne.
 
-	* [[Slides (PDF) ]](slides/1_slides_bossart.pdf)
 
 
 2. Mercredi 28 Février 2024
@@ -31,7 +30,6 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	* *Optimisation et jeux vidéo*, [Fabrice Lété](https://www.linkedin.com/in/letef/?originalSubdomain=be), [Unity Technologies](https://unity.com/)
 	* **Biographie**: Ancien étudiant de l’UMH (ancêtre de l’UMONS), titulaire d’une licence en informatique (ancêtre du master), Fabrice (ancêtre lui-même) a intégré l’industrie du jeu vidéo il y a plus de 20 ans. Et depuis 6 ans, il est développeur chez Unity Technologies, où il travaille au cœur d’un moteur utilisé par plus de la moitié des jeux vidéo actuellement commercialisés (toutes plateformes confondues).
 	* **Abstract**: L’industrie du jeu vidéo est un vivier d’idées lorsqu’il s’agit de repousser les limites de ce que peut faire la machine. Optimiser, c’est faire plus avec moins. Et ça a toujours été l’un des arguments majeurs utilisés par les jeux pour se démarquer les uns des autres. Malheureusement, plus les ordinateurs se complexifient, plus il est fréquent de faire les erreurs d’apparence anodine qui sont la source des pires gaspillages. La présentation parlera des grands principes à surveiller pour éviter ça.
-	* [[Slides (PDF, not available yet)]](.)
 	
 
 3. Mercredi 6 Mars 2024
@@ -45,7 +43,6 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 		- Comment mesurer la dépendance géographique d’un indicateur socio-économique ?
 		- Quelles sont les possibilités de l’analytique géographique ?
   
-	* [[Slides (PDF, not available yet)]](.)
 
 
 
@@ -59,13 +56,11 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	Hello ! Moi c'est Nicolas Decruyenaere, montois de fait et de coeur, sorti en 2016 de la Faculté des Sciences avec un master en informatique. Depuis, j'ai travaillé dans plusieurs domaines, industriel, data modeling, business intelligence, avant de revenir vers le développement en 2019 en rejoignant Necko. De là, j'ai appris les ficelles du cloud jusqu'à devenir solutions architect et devops engineer, à travers plusieurs missions et certifications. Cette expérience me permet d'aider nos clients à développer leurs applications sur des architectures cloud robustes, évolutives et facilement maintenables. Je donne également des formations sur AWS. Ah, et je suis papa, photographe, musicien, gamer, cinéphile, passionné de sports extrêmes, et curieux de tout. Dormir ? Plus tard...
 
  
-	* [[Slides (PDF, not available yet)]](.)
 
 
 6. Mercredi 20 Mars 2024
 	
  	* *Title TBA*, [Gery Gevers](https://www.linkedin.com/in/gerygevers/?originalSubdomain=be), [Ion Beam Applications (IBA)](http://www.iba-worldwide.com/)
- 	* [[Slides (PDF, not available yet)]](.)
   
 7. Mercredi 27 Mars 2024. 🔴En ligne (sur Teams)🔴 
 	
@@ -75,7 +70,6 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 	
 	* **Abstract**: Les différents types de missions qu’un expert judiciaire est susceptible de réaliser seront explicités, de même que le rôle dévolu à un expert, ses devoirs et obligations. Il en va de litiges concernant la fourniture de systèmes informatiques, qui ne répondent pas aux besoins du client ou aux spécifications contractuelles, de saisies-descriptions relatives à la contrefaçon de logiciels ou de sites web, de vol de données et de secrets d’affaires, de recherches de preuves inforensiques dans le cadre de faits supposés délictueux. Le rôle de l’expert dans la recherche de solutions amiables aux litiges sera mis en évidence. L’accent sera également mis sur les obligations qui pèsent sur les développeurs de logiciels et de sites web.
 
-	* [[Slides (PDF) ]](slides/1_slides_bossart.pdf)
 
 
 **Vacances de printemps**
@@ -83,13 +77,12 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 7. Mercredi 17 Avril 2024
 	
  	* *Title*, [Valérie Zapico](https://be.linkedin.com/in/valerie-zapico), [VALKUREN](https://www.valkuren.com/)
- 	* [[Slides (PDF, not available yet)]](.)
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
 	* 🔴 **18h00 - 19h00** 🔴. *Title*, [Speaker](.), [Company](.)
-		* [[Slides (PDF, not available yet)]](.)
- 	* 🔴 **19h15 - 20h45** 🔴. Agoria Company Tour
+
+  	* 🔴 **19h15 - 20h45** 🔴. Agoria Company Tour
    
 9. Mercredi 8 Mai 2024
 
