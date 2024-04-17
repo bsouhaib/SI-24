@@ -90,8 +90,8 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
-	* *Compiler evolution by in situ incremental lowering*, [Darius Blasband](https://www.dariusblasband.com/), [Raincode](https://www.raincodelabs.com/)
- 	* **Biographie**: Darius Blasband, Licencié et Informatique et Docteur en Sciences à l’Université Libre de Bruxelles (Darius Blasband | LinkedIn) est un des fondateurs et le CEO de Raincode (http://www.raincode.com), société spécialisée dans les techniques de compilation et dans les solutions de modernisation des systèmes informatiques patrimoniaux. Il est le créateur du langage de programmation YAFL, l’auteur de “The Rise And Fall Of Software Recipes” et de “Dear Andrea, Letters To a Young Coder”, et le co-animateur du podcast dédié aux compilateurs et langages de programmation “We Speak Your Language”.  
+	* *Compiler evolution by in situ incremental lowering*, [Darius Blasband](https://www.dariusblasband.com/), [Raincode](https://www.raincode.com/) 
+ 	* **Biographie**: Darius Blasband, Licencié et Informatique et Docteur en Sciences à l’Université Libre de Bruxelles, est un des fondateurs et le CEO de Raincode (http://www.raincode.com), société spécialisée dans les techniques de compilation et dans les solutions de modernisation des systèmes informatiques patrimoniaux. Il est le créateur du langage de programmation YAFL, l’auteur de “The Rise And Fall Of Software Recipes” et de “Dear Andrea, Letters To a Young Coder”, et le co-animateur du podcast dédié aux compilateurs et langages de programmation “We Speak Your Language”.  
 
 	* **Abstract**:    Cette présentation détaille la genèse d’un projet industriel, couvrant une évolution majeure du compilateur YAFL, utilisé en production. Ce projet s’est effectué avec des contraintes de temps et de coût très strictes. 
 
