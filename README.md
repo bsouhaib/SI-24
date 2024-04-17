@@ -81,7 +81,12 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 7. Mercredi 17 Avril 2024
 	
- 	* *Title*, [Valérie Zapico](https://be.linkedin.com/in/valerie-zapico), [VALKUREN](https://www.valkuren.com/)
+ 	* *Différentes applications de l'intelligence artificielle et son intégration dans le milieu professionnel*, [Valérie Zapico](https://be.linkedin.com/in/valerie-zapico), [VALKUREN](https://www.valkuren.com/)
+ 	* **Biographie**: Valerie Zapico est la CEO/Founder de la société Valkuren, spécialisée dans le développement de solutions Big Data incluant des services de Data Analytics & d'Intelligence Artificielle, dans 2 domaines principaux, le manufacturing et la mobilité. La mission est d'aider les entreprises à optimiser leur process et améliorer leur prise de décision grâce aux nouveaux moyens de valorisation des données en ayant à cœur de porter attention au lien humain et à la diversité. C’est pourquoi, en parallèle, Valerie est responsable du chapter bruxellois de l'organisation Women in Big Data et est investie dans diverses activités liées à la communauté AI4Belgium, French Tech Brussel, etc. Nommée Inspiring Fifty pour la Belgique en 2020 et dans le Top 3 du ICT Women of the year 2023, Valérie intervient en tant que conférencière, notamment à l'UMons dans le programme du certificat "Hands-on AI".
+
+	
+	* **Abstract**: Nous nous intéresserons à la manière dont l'intelligence artificielle (IA) est appliquée dans les entreprises, en retraçant l'évolution de la maturité des données et du Big Data. Nous examinerons les impacts de l'IA sur les équipes informatiques et métiers, en soulignant comment ces technologies transforment les opérations et les stratégies d'entreprise. Des discussions détailleront les défis organisationnels et techniques rencontrés, offrant des perspectives sur les meilleures pratiques pour une intégration efficace de l'IA. Enfin, des exemples concrets viendrons illustrer les succès et les obstacles, fournissant une vue d'ensemble critique et instructive sur l'implémentation de l'IA en milieu professionnel.
+
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
