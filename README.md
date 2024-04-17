@@ -90,9 +90,7 @@ Les séminaires auront lieu dans la **salle Mirzakhani** (première étage du b�
 
 8. 🔴**Vendredi**🔴 26 Avril 2024
 
-	* 🔴 **18h00 - 19h00** 🔴. *Title*, [Speaker](.), [Company](.)
-
-  	* 🔴 **19h15 - 20h45** 🔴. Agoria Company Tour
+	* *TBC*, [Darius Blasband](https://www.dariusblasband.com/), [Raincode](https://www.raincodelabs.com/)
    
 9. Mercredi 8 Mai 2024
 
